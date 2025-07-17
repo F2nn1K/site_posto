@@ -41,7 +41,7 @@ const Header: React.FC = () => {
             {/* Logo */}
             <div className="flex items-center">
               <img 
-                src="/Logotipo.png" 
+                src="./Logotipo.png" 
                 alt="Auto Posto Estrela D'Alva" 
                 className="h-12 md:h-14 lg:h-16 w-auto"
               />
