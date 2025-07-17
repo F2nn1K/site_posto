@@ -18,7 +18,7 @@ const Hero: React.FC = () => {
       {/* Background Image */}
       <div className="absolute inset-0">
         <img 
-          src="/layout.png" 
+          src="./layout.png" 
           alt="Auto Posto Estrela D'Alva" 
           className="w-full h-full object-cover opacity-40"
         />
